@@ -1,0 +1,13 @@
+.drink_filter_buttons{
+display: flex;
+justify-content: space-around;
+margin-left: 20%;
+margin-right: 20%;
+}
+
+.drink_filter_buttons h3{
+    background-color: red;
+    color: white;
+    padding: .7rem;
+    border-radius: 2rem;
+}
